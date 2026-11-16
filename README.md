@@ -27,7 +27,7 @@ Background: [Keep a Movebank study on your own computer](https://www.schaeuffelh
 
 ### Older things
 
-- [mc68000_sbc](https://github.com/mcb77/mc68000_sbc): resurrecting a Motorola 68000 single-board computer I tinkered with in 1996
+- [mc68000_sbc](https://github.com/mcb77/mc68000_sbc): resurrecting a Motorola 68000 single-board computer I built in 1996
 - [3dyne_legacy_engine](https://github.com/mcb77/3dyne_legacy_engine): the 3dyne Legacy Engine (C++)
 
 ### Elsewhere
